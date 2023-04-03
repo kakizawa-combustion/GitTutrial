@@ -1,2 +1,5 @@
 Sample of git commands.
 written on March 29th, 2023
+
+"add" can register the changes to the Index.
+modified on April 3rd, 2023
